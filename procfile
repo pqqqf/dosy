@@ -1,1 +1,1 @@
-worker: python j.py
+worker: python3 j.py
